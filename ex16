@@ -1,0 +1,7 @@
+print("Exercício 16 ")
+print(f"a) √⁵√x = ¹⁰√x")
+print(f"b) ²√²√6 = ⁴√6")
+print(f"c) ⁴√³√a = ¹²√a")
+print(f"d) ³√³√2 = ⁹√2")
+print(f"e) ⁸√²√10 = ¹⁶√10")
+print(f"f) ²√²√²√2 = ⁸√2")
