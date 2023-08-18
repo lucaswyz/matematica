@@ -1,5 +1,5 @@
 print("Exercício 17")
 print("a) √5*7 = √5 * √7")
-print("b) ³√ax = ³√a * √x")
-print("c) ⁷√3²*11 = ³√3² * ³√11")
+print("b) ³√ax = ³√a * ³√x")
+print("c) ⁷√3²*11 = ⁷√3² * ⁷√11")
 print("d) ⁶√xy = ⁶√x * ⁶√y")
