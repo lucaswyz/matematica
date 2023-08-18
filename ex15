@@ -9,10 +9,9 @@ raizF = 343 ** (1/3)
 
 print("Exercício 15: ")
 
-print(f"a) √49 = {raizA}")
-print(f"a) √8 = {raizB}")
-print(f"a) √625 = {raizC}")
-print(f"a) √1024 = {raizD}")
-print(f"a) √81 = {raizE}")
-print(f"a) √343 = {raizF}")
-
+print(f"a) √49 = ²√7² = {raizA}")
+print(f"a) ³√8 = ³√2³ = {raizB}")
+print(f"a) √625 = ⁴√5⁴ = {raizC}")
+print(f"a) ¹⁰√1024 = ¹⁰√2¹⁰ = {raizD}")
+print(f"a) ⁴√81 = ⁴√3⁴ = {raizE}")
+print(f"a) ³√343 = ³√7³ = {raizF}")
